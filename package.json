@@ -1,0 +1,23 @@
+{
+  "name": "tuntun",
+  "version": "1.1.0",
+  "description": "Create a tunnel, spawn a process with the tunnel urls as an environment variable.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tuntun": "index.js"
+  },
+  "keywords": [],
+  "author": "Jim Cummins <jimthedev@gmail.com> (http://github.com/jimthedev)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimthedev/tuntun.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jimthedev/tuntun/issues"
+  },
+  "homepage": "https://github.com/jimthedev/tuntun#readme"
+}
